@@ -1,4 +1,4 @@
-# Contact list
+<h1 align="center">Contact List</h1>
 
 <p align="center">My sixth application created in Flutter during the Udemy's Flutter course.</p>
 
