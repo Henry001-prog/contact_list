@@ -1,6 +1,6 @@
 # Contact list
 
-My sixth application created in Flutter during the Udemy's Flutter course.
+<p align="center">My sixth application created in Flutter during the Udemy's Flutter course.</p>
 
 <h1 align="center">
     <img src="/screenshots/Flutter1.png" height="480" width="280">
